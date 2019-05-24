@@ -1,4 +1,4 @@
-### GENERAL ELECTION 2019 DATA
+### INDIAN GENERAL ELECTION 2019 DATA
 ##### Scrapped using Python
 
 India is worlds largest democracy.
@@ -20,17 +20,18 @@ http://results.eci.gov.in/pc/en/constituencywise/Constituencywise{area}{constitu
 
 
 
-- candidates_info.csv file contains the scrapped data.
-	Delimiter = ","
-	Columns   = - stateID,
-				- stateName,
-				- constID,
-				- constituencyName,
-				- sNo,
-				- candidateName,
-				- party,
-				- evmVotes,
-				- postalVotes,
-				- totalVotes,
-				- percentVotes
+### candidates_info.csv file contains the scrapped data.
+- Delimiter = ","
+- Columns    
+	- stateID
+	- stateName
+	- constID
+	- constituencyName
+	- sNo
+	- candidateName
+	- party
+	- evmVotes
+	- postalVotes
+	- totalVotes
+	- percentVotes
 				
